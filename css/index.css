@@ -133,7 +133,7 @@ header nav {
 
 @media (max-width:815px){
     .logo{
-        margin-left:62px;
+        /* margin-left:62px; */
     }}
 
 @media (max-width:515px){
